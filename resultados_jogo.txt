@@ -1,0 +1,23 @@
+Resultados do Jogo da Velha
+
+Lucas x Pedro
+X | X | O
+X | O |  
+X |   | O
+Vencedor: Lucas
+--------------------
+
+mutter x Eduardo
+X | O | O
+O | X | X
+X | O | X
+Vencedor: mutter
+--------------------
+
+mutter x Eduardo
+X | X | O
+O | X | X
+X | O | O
+Empate
+--------------------
+
